@@ -82,7 +82,7 @@ void ClientDraw() {
         }
     }
     else if (ClientDrawFigures == CirclClientDraw)Ellipse(hdc, cords[0].x, cords[0].y, cords[1].x, cords[1].y);
-    else if (ClientDrawFigures == TextClientDraw)TextOut(hdc, cords[1].x, cords[1].y, "Hello World!", 9);
+    else if (ClientDrawFigures == TextClientDraw)TextOut(hdc, cords[1].x, cords[1].y, "Hello World!", 12);
 }
 
 void Arrows(HWND hwnd, WPARAM wParam, LPARAM lParam) {

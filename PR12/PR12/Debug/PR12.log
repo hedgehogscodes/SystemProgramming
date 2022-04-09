@@ -1,5 +1,5 @@
 ﻿  PR12.cpp
-C:\Users\zjora\Desktop\PR12\PR12\PR12.cpp(158,34): warning C4244: +=: преобразование "double" в "LONG", возможна потеря данных
-C:\Users\zjora\Desktop\PR12\PR12\PR12.cpp(167,34): warning C4244: +=: преобразование "double" в "LONG", возможна потеря данных
-C:\Users\zjora\Desktop\PR12\PR12\PR12.cpp(298,74): warning C4101: editTextType1: неиспользованная локальная переменная
-  PR12.vcxproj -> C:\Users\zjora\Desktop\PR12\Debug\PR12.exe
+C:\Users\zjora\Desktop\SystemProgramming\PR12\PR12\PR12.cpp(158,34): warning C4244: +=: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\zjora\Desktop\SystemProgramming\PR12\PR12\PR12.cpp(167,34): warning C4244: +=: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\zjora\Desktop\SystemProgramming\PR12\PR12\PR12.cpp(298,74): warning C4101: editTextType1: неиспользованная локальная переменная
+  PR12.vcxproj -> C:\Users\zjora\Desktop\SystemProgramming\PR12\Debug\PR12.exe

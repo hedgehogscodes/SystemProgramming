@@ -1,0 +1,8 @@
+﻿  copy2.cpp
+C:\Users\zjora\Desktop\copy2\copy2\copy2.cpp(35,16): warning C4476: "printf": неизвестный символ поля типа "\xd1" в описателе формата
+C:\Users\zjora\Desktop\copy2\copy2\copy2.cpp(35,104): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\zjora\Desktop\copy2\copy2\copy2.cpp(35,104): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+C:\Users\zjora\Desktop\copy2\copy2\copy2.cpp(47,16): warning C4476: "printf": неизвестный символ поля типа "\xd1" в описателе формата
+C:\Users\zjora\Desktop\copy2\copy2\copy2.cpp(47,106): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\zjora\Desktop\copy2\copy2\copy2.cpp(47,106): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  copy2.vcxproj -> C:\Users\zjora\Desktop\copy2\Debug\copy2.exe
